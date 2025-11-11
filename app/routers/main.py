@@ -36,6 +36,17 @@ def get_dashboard(db: Session = Depends(get_db)):
     recommended_calories = calculate_bmr(
         user.gender, user.weight, user.height, user.age, user.activity
     )
+    
+    # AMDR 평균 비율 적용
+    carb_ratio = 0.60
+    protein_ratio = 0.15
+    fat_ratio = 0.25
+
+    # 권장 영양소 계산
+    carb_goal = round(recommended_calories * carb_ratio / 4)
+    protein_goal = round(recommended_calories * protein_ratio / 4)
+    fat_goal = round(recommended_calories * fat_ratio / 9)
+
 
     dashboard = {
         "id": user.id,
@@ -45,9 +56,9 @@ def get_dashboard(db: Session = Depends(get_db)):
         "totalCalories": 0,  # AI 연동 전, 일단 0
         "progress": 0,       # 진행률도 일단 0
         "macros": {
-            "carbohydrate": {"value": 0, "goal": 250, "unit": "g"},
-            "protein": {"value": 0, "goal": 80, "unit": "g"},
-            "fat": {"value": 0, "goal": 60, "unit": "g"}
+            "carbohydrate": {"value": 0, "goal": carb_goal, "unit": "g"},
+            "protein": {"value": 0, "goal": protein_goal, "unit": "g"},
+            "fat": {"value": 0, "goal": fat_goal, "unit": "g"}
         }
     }
 
