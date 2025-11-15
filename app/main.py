@@ -1,8 +1,8 @@
+from fastapi.staticfiles import StaticFiles
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.database.connection import Base, engine
-from app.routers import user
-from app.routers import main
+from app.routers import user, main, meal
 
 app = FastAPI()
 
@@ -18,6 +18,7 @@ app.add_middleware(
 #라우터 등록
 app.include_router(user.router)
 app.include_router(main.router)
+app.include_router(meal.router)
 
 #DB 테이블 생성 (미들웨어와 라우터 등록 이후)
 Base.metadata.create_all(bind=engine)
@@ -25,3 +26,6 @@ Base.metadata.create_all(bind=engine)
 @app.get("/")
 def root():
     return {"message": "FastAPI server is running 🚀"}
+
+
+app.mount("/static", StaticFiles(directory="app/static"), name="static")

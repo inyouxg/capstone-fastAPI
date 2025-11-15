@@ -1,0 +1,2353 @@
+{
+  "꼬치어묵우동": {
+    "serving_size_g": 450,
+    "calories_kcal": 515,
+    "carbohydrates_g": 74.8,
+    "sugars_g": 5.3,
+    "protein_g": 21.5,
+    "fat_g": 13.2
+  },
+  "백미밥": {
+    "serving_size_g": 210,
+    "calories_kcal": 319,
+    "carbohydrates_g": 70.5,
+    "sugars_g": 2.2,
+    "protein_g": 4.4,
+    "fat_g": 0.6
+  },
+  "야채감자고로케": {
+    "serving_size_g": 100,
+    "calories_kcal": 165,
+    "carbohydrates_g": 36,
+    "sugars_g": 5,
+    "protein_g": 5.1,
+    "fat_g": 15.8
+  },
+  "브로콜리숙회": {
+    "serving_size_g": 70,
+    "calories_kcal": 25,
+    "carbohydrates_g": 4.6,
+    "sugars_g": 1.2,
+    "protein_g": 2.6,
+    "fat_g": 0.3
+  },
+  "오복지무침": {
+    "serving_size_g": 50,
+    "calories_kcal": 40,
+    "carbohydrates_g": 8.3,
+    "sugars_g": 4.8,
+    "protein_g": 0.9,
+    "fat_g": 0.2
+  },
+  "배추김치": {
+    "serving_size_g": 40,
+    "calories_kcal": 16,
+    "carbohydrates_g": 2.6,
+    "sugars_g": 1.2,
+    "protein_g": 0.8,
+    "fat_g": 0.2
+  },
+  "빨간콩나물국": {
+    "serving_size_g": 250,
+    "calories_kcal": 47,
+    "carbohydrates_g": 6.6,
+    "sugars_g": 2.2,
+    "protein_g": 2.2,
+    "fat_g": 1.1
+  },
+  "데리야끼떡갈비": {
+    "serving_size_g": 120,
+    "calories_kcal": 260,
+    "carbohydrates_g": 17.5,
+    "sugars_g": 6.1,
+    "protein_g": 18.2,
+    "fat_g": 13.1,
+    "sodium_mg": 580
+  },
+  "느타리버섯볶음": {
+    "serving_size_g": 80,
+    "calories_kcal": 60,
+    "carbohydrates_g": 6.8,
+    "sugars_g": 1.7,
+    "protein_g": 2.8,
+    "fat_g": 2.5,
+    "sodium_mg": 140
+  },
+  "오이생채": {
+    "serving_size_g": 60,
+    "calories_kcal": 20,
+    "carbohydrates_g": 3.2,
+    "sugars_g": 1.5,
+    "protein_g": 0.9,
+    "fat_g": 0.4,
+    "sodium_mg": 260
+  },
+  "깍두기": {
+    "serving_size_g": 40,
+    "calories_kcal": 11,
+    "carbohydrates_g": 2.3,
+    "sugars_g": 0.6,
+    "protein_g": 0.4,
+    "fat_g": 0.1,
+    "sodium_mg": 260
+  },
+  "요구르트": {
+    "serving_size_g": 150,
+    "calories_kcal": 90,
+    "carbohydrates_g": 13.2,
+    "sugars_g": 12.5,
+    "protein_g": 3.0,
+    "fat_g": 2.0,
+    "sodium_mg": 55
+  },
+  "돈육메추리알조림": {
+    "serving_size_g": 100,
+    "calories_kcal": 210,
+    "carbohydrates_g": 8.5,
+    "sugars_g": 4.1,
+    "protein_g": 15.9,
+    "fat_g": 11.2,
+    "sodium_mg": 620
+  },
+  "들깨무채국": {
+    "serving_size_g": 250,
+    "calories_kcal": 95,
+    "carbohydrates_g": 6.0,
+    "sugars_g": 1.1,
+    "protein_g": 6.5,
+    "fat_g": 4.0,
+    "sodium_mg": 760
+  },
+  "단호박튀김": {
+    "serving_size_g": 80,
+    "calories_kcal": 210,
+    "carbohydrates_g": 25.2,
+    "sugars_g": 5.8,
+    "protein_g": 2.2,
+    "fat_g": 11.1,
+    "sodium_mg": 120
+  },
+  "미역줄기볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 6.1,
+    "sugars_g": 1.3,
+    "protein_g": 1.8,
+    "fat_g": 1.9,
+    "sodium_mg": 420
+  },
+  "부대볶음": {
+    "serving_size_g": 180,
+    "calories_kcal": 420,
+    "carbohydrates_g": 15.0,
+    "sugars_g": 5.9,
+    "protein_g": 27.3,
+    "fat_g": 27.2,
+    "sodium_mg": 1260
+  },
+  "물만두국": {
+    "serving_size_g": 250,
+    "calories_kcal": 210,
+    "carbohydrates_g": 24.1,
+    "sugars_g": 2.4,
+    "protein_g": 11.2,
+    "fat_g": 7.5,
+    "sodium_mg": 780
+  },
+  "맛감자볼": {
+    "serving_size_g": 100,
+    "calories_kcal": 290,
+    "carbohydrates_g": 37.2,
+    "sugars_g": 3.8,
+    "protein_g": 4.5,
+    "fat_g": 14.5,
+    "sodium_mg": 420
+  },
+  "건파래볶음": {
+    "serving_size_g": 30,
+    "calories_kcal": 55,
+    "carbohydrates_g": 4.1,
+    "sugars_g": 0.8,
+    "protein_g": 1.9,
+    "fat_g": 3.8,
+    "sodium_mg": 270
+  },
+  "닭갈비": {
+    "serving_size_g": 200,
+    "calories_kcal": 480,
+    "carbohydrates_g": 18.2,
+    "sugars_g": 7.0,
+    "protein_g": 37.6,
+    "fat_g": 25.1,
+    "sodium_mg": 720
+  },
+  "된장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 90,
+    "carbohydrates_g": 5.4,
+    "sugars_g": 1.1,
+    "protein_g": 7.8,
+    "fat_g": 3.2,
+    "sodium_mg": 760
+  },
+  "도토리묵": {
+    "serving_size_g": 150,
+    "calories_kcal": 120,
+    "carbohydrates_g": 28.1,
+    "sugars_g": 0.4,
+    "protein_g": 1.2,
+    "fat_g": 0.5,
+    "sodium_mg": 12
+  },
+  "고사리나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 5.6,
+    "sugars_g": 0.7,
+    "protein_g": 2.3,
+    "fat_g": 1.8,
+    "sodium_mg": 130
+  },
+  "고추장찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 180,
+    "carbohydrates_g": 7.2,
+    "sugars_g": 2.3,
+    "protein_g": 13.4,
+    "fat_g": 9.8,
+    "sodium_mg": 850
+  },
+  "야채튀김": {
+    "serving_size_g": 100,
+    "calories_kcal": 280,
+    "carbohydrates_g": 30.1,
+    "sugars_g": 2.1,
+    "protein_g": 5.3,
+    "fat_g": 15.6,
+    "sodium_mg": 340
+  },
+  "맛살겨자냉채": {
+    "serving_size_g": 80,
+    "calories_kcal": 130,
+    "carbohydrates_g": 10.3,
+    "sugars_g": 5.4,
+    "protein_g": 6.9,
+    "fat_g": 6.2,
+    "sodium_mg": 410
+  },
+  "눈꽃치즈함박": {
+    "serving_size_g": 200,
+    "calories_kcal": 520,
+    "carbohydrates_g": 18.5,
+    "sugars_g": 4.2,
+    "protein_g": 31.2,
+    "fat_g": 35.1,
+    "sodium_mg": 860
+  },
+  "옥수수스프": {
+    "serving_size_g": 250,
+    "calories_kcal": 180,
+    "carbohydrates_g": 23.0,
+    "sugars_g": 7.8,
+    "protein_g": 5.5,
+    "fat_g": 7.4,
+    "sodium_mg": 480
+  },
+  "천사채야채무침": {
+    "serving_size_g": 80,
+    "calories_kcal": 40,
+    "carbohydrates_g": 7.2,
+    "sugars_g": 2.4,
+    "protein_g": 0.9,
+    "fat_g": 0.7,
+    "sodium_mg": 190
+  },
+  "얼갈이나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 35,
+    "carbohydrates_g": 5.3,
+    "sugars_g": 0.8,
+    "protein_g": 2.3,
+    "fat_g": 0.7,
+    "sodium_mg": 110
+  },
+  "유부가락국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 520,
+    "carbohydrates_g": 72.2,
+    "sugars_g": 3.1,
+    "protein_g": 18.4,
+    "fat_g": 14.2,
+    "sodium_mg": 1580
+  },
+  "춘권튀김": {
+    "serving_size_g": 90,
+    "calories_kcal": 220,
+    "carbohydrates_g": 26.8,
+    "sugars_g": 3.4,
+    "protein_g": 4.8,
+    "fat_g": 10.5,
+    "sodium_mg": 260
+  },
+  "마카로니샐러드": {
+    "serving_size_g": 100,
+    "calories_kcal": 310,
+    "carbohydrates_g": 33.6,
+    "sugars_g": 4.8,
+    "protein_g": 7.2,
+    "fat_g": 15.8,
+    "sodium_mg": 240
+  },
+  "무채나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 6.8,
+    "sugars_g": 1.5,
+    "protein_g": 1.2,
+    "fat_g": 1.4,
+    "sodium_mg": 160
+  },
+  "순살감자탕": {
+    "serving_size_g": 400,
+    "calories_kcal": 600,
+    "carbohydrates_g": 22.3,
+    "sugars_g": 5.8,
+    "protein_g": 40.1,
+    "fat_g": 38.2,
+    "sodium_mg": 1750
+  },
+  "너비아니구이": {
+    "serving_size_g": 120,
+    "calories_kcal": 310,
+    "carbohydrates_g": 12.8,
+    "sugars_g": 4.1,
+    "protein_g": 21.0,
+    "fat_g": 19.8,
+    "sodium_mg": 560
+  },
+  "연근조림": {
+    "serving_size_g": 70,
+    "calories_kcal": 80,
+    "carbohydrates_g": 14.4,
+    "sugars_g": 4.3,
+    "protein_g": 1.7,
+    "fat_g": 1.3,
+    "sodium_mg": 220
+  },
+  "부추생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 5.8,
+    "sugars_g": 1.9,
+    "protein_g": 1.6,
+    "fat_g": 1.8,
+    "sodium_mg": 140
+  },
+  "마파두부덮밥": {
+    "serving_size_g": 350,
+    "calories_kcal": 610,
+    "carbohydrates_g": 72.3,
+    "sugars_g": 7.1,
+    "protein_g": 25.5,
+    "fat_g": 22.6,
+    "sodium_mg": 1250
+  },
+  "계란국": {
+    "serving_size_g": 250,
+    "calories_kcal": 80,
+    "carbohydrates_g": 2.1,
+    "sugars_g": 0.7,
+    "protein_g": 6.9,
+    "fat_g": 5.0,
+    "sodium_mg": 710
+  },
+  "후르츠탕수육": {
+    "serving_size_g": 200,
+    "calories_kcal": 540,
+    "carbohydrates_g": 54.2,
+    "sugars_g": 20.3,
+    "protein_g": 21.4,
+    "fat_g": 25.6,
+    "sodium_mg": 580
+  },
+  "숙주나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 5.2,
+    "sugars_g": 0.9,
+    "protein_g": 3.5,
+    "fat_g": 1.5,
+    "sodium_mg": 120
+  },
+  "단무지": {
+    "serving_size_g": 40,
+    "calories_kcal": 12,
+    "carbohydrates_g": 2.3,
+    "sugars_g": 0.6,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sodium_mg": 270
+  },
+  "로제떡볶이": {
+    "serving_size_g": 250,
+    "calories_kcal": 480,
+    "carbohydrates_g": 74.1,
+    "sugars_g": 11.4,
+    "protein_g": 10.2,
+    "fat_g": 14.6,
+    "sodium_mg": 890
+  },
+  "후리가케밥": {
+    "serving_size_g": 210,
+    "calories_kcal": 340,
+    "carbohydrates_g": 68.4,
+    "sugars_g": 3.2,
+    "protein_g": 6.1,
+    "fat_g": 1.8,
+    "sodium_mg": 460
+  },
+  "맑은우동장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 75,
+    "carbohydrates_g": 4.8,
+    "sugars_g": 1.3,
+    "protein_g": 5.1,
+    "fat_g": 2.8,
+    "sodium_mg": 820
+  },
+  "야채튀김&김말이": {
+    "serving_size_g": 150,
+    "calories_kcal": 420,
+    "carbohydrates_g": 36.8,
+    "sugars_g": 3.4,
+    "protein_g": 8.5,
+    "fat_g": 26.4,
+    "sodium_mg": 410
+  },
+  "오이피클": {
+    "serving_size_g": 50,
+    "calories_kcal": 25,
+    "carbohydrates_g": 4.3,
+    "sugars_g": 2.6,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sodium_mg": 310
+  },
+  "닭볶음탕": {
+    "serving_size_g": 350,
+    "calories_kcal": 550,
+    "carbohydrates_g": 18.9,
+    "sugars_g": 6.3,
+    "protein_g": 41.6,
+    "fat_g": 30.8,
+    "sodium_mg": 1350
+  },
+  "불어묵튀김": {
+    "serving_size_g": 120,
+    "calories_kcal": 300,
+    "carbohydrates_g": 26.4,
+    "sugars_g": 4.1,
+    "protein_g": 12.5,
+    "fat_g": 16.8,
+    "sodium_mg": 690
+  },
+  "근대나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 38,
+    "carbohydrates_g": 5.6,
+    "sugars_g": 0.9,
+    "protein_g": 2.3,
+    "fat_g": 1.2,
+    "sodium_mg": 130
+  },
+  "쌀국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 520,
+    "carbohydrates_g": 78.4,
+    "sugars_g": 3.5,
+    "protein_g": 18.1,
+    "fat_g": 12.6,
+    "sodium_mg": 1380
+  },
+  "사모사튀김": {
+    "serving_size_g": 100,
+    "calories_kcal": 260,
+    "carbohydrates_g": 32.1,
+    "sugars_g": 3.2,
+    "protein_g": 6.1,
+    "fat_g": 11.4,
+    "sodium_mg": 310
+  },
+  "유부겨자무침": {
+    "serving_size_g": 80,
+    "calories_kcal": 90,
+    "carbohydrates_g": 10.8,
+    "sugars_g": 3.5,
+    "protein_g": 4.3,
+    "fat_g": 3.2,
+    "sodium_mg": 280
+  },
+  "양파초절임": {
+    "serving_size_g": 60,
+    "calories_kcal": 22,
+    "carbohydrates_g": 4.3,
+    "sugars_g": 2.8,
+    "protein_g": 0.5,
+    "fat_g": 0.1,
+    "sodium_mg": 230
+  },
+  "매콤돈깍둑조림": {
+    "serving_size_g": 150,
+    "calories_kcal": 380,
+    "carbohydrates_g": 14.2,
+    "sugars_g": 5.8,
+    "protein_g": 24.5,
+    "fat_g": 24.8,
+    "sodium_mg": 820
+  },
+  "어묵국": {
+    "serving_size_g": 250,
+    "calories_kcal": 115,
+    "carbohydrates_g": 5.8,
+    "sugars_g": 1.9,
+    "protein_g": 8.4,
+    "fat_g": 6.2,
+    "sodium_mg": 750
+  },
+  "브로콜리볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 5.8,
+    "sugars_g": 1.3,
+    "protein_g": 2.5,
+    "fat_g": 2.1,
+    "sodium_mg": 110
+  },
+  "토마토스파게티": {
+    "serving_size_g": 300,
+    "calories_kcal": 530,
+    "carbohydrates_g": 72.5,
+    "sugars_g": 11.2,
+    "protein_g": 18.1,
+    "fat_g": 16.2,
+    "sodium_mg": 890
+  },
+  "유부된장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 85,
+    "carbohydrates_g": 5.0,
+    "sugars_g": 1.2,
+    "protein_g": 6.2,
+    "fat_g": 3.1,
+    "sodium_mg": 790
+  },
+  "타코야끼": {
+    "serving_size_g": 150,
+    "calories_kcal": 310,
+    "carbohydrates_g": 38.4,
+    "sugars_g": 5.5,
+    "protein_g": 10.2,
+    "fat_g": 13.8,
+    "sodium_mg": 620
+  },
+  "샐러드": {
+    "serving_size_g": 150,
+    "calories_kcal": 120,
+    "carbohydrates_g": 7.8,
+    "sugars_g": 4.2,
+    "protein_g": 4.6,
+    "fat_g": 8.1,
+    "sodium_mg": 180
+  },
+  "카레라이스": {
+    "serving_size_g": 350,
+    "calories_kcal": 640,
+    "carbohydrates_g": 92.5,
+    "sugars_g": 7.6,
+    "protein_g": 16.2,
+    "fat_g": 18.1,
+    "sodium_mg": 1100
+  },
+  "계란파국": {
+    "serving_size_g": 250,
+    "calories_kcal": 78,
+    "carbohydrates_g": 2.3,
+    "sugars_g": 0.9,
+    "protein_g": 6.8,
+    "fat_g": 4.7,
+    "sodium_mg": 690
+  },
+  "칠리탕수육": {
+    "serving_size_g": 200,
+    "calories_kcal": 540,
+    "carbohydrates_g": 55.1,
+    "sugars_g": 20.8,
+    "protein_g": 22.0,
+    "fat_g": 25.0,
+    "sodium_mg": 600
+  },
+  "쫄면": {
+    "serving_size_g": 350,
+    "calories_kcal": 590,
+    "carbohydrates_g": 92.2,
+    "sugars_g": 10.1,
+    "protein_g": 16.3,
+    "fat_g": 16.5,
+    "sodium_mg": 1180
+  },
+  "청경채생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 32,
+    "carbohydrates_g": 4.3,
+    "sugars_g": 1.1,
+    "protein_g": 1.9,
+    "fat_g": 1.1,
+    "sodium_mg": 100
+  },
+  "김치수제비": {
+    "serving_size_g": 400,
+    "calories_kcal": 460,
+    "carbohydrates_g": 82.1,
+    "sugars_g": 4.9,
+    "protein_g": 13.0,
+    "fat_g": 8.4,
+    "sodium_mg": 1450
+  },
+  "생선까스": {
+    "serving_size_g": 180,
+    "calories_kcal": 410,
+    "carbohydrates_g": 26.2,
+    "sugars_g": 3.1,
+    "protein_g": 19.5,
+    "fat_g": 24.1,
+    "sodium_mg": 530
+  },
+  "연두부": {
+    "serving_size_g": 150,
+    "calories_kcal": 90,
+    "carbohydrates_g": 2.8,
+    "sugars_g": 0.6,
+    "protein_g": 8.2,
+    "fat_g": 5.2,
+    "sodium_mg": 55
+  },
+  "가라아게&파채": {
+    "serving_size_g": 200,
+    "calories_kcal": 520,
+    "carbohydrates_g": 27.2,
+    "sugars_g": 5.5,
+    "protein_g": 34.5,
+    "fat_g": 29.8,
+    "sodium_mg": 780
+  },
+  "조랭이떡국": {
+    "serving_size_g": 400,
+    "calories_kcal": 530,
+    "carbohydrates_g": 84.0,
+    "sugars_g": 3.9,
+    "protein_g": 15.2,
+    "fat_g": 12.1,
+    "sodium_mg": 1150
+  },
+  "푸실리범벅": {
+    "serving_size_g": 300,
+    "calories_kcal": 550,
+    "carbohydrates_g": 76.4,
+    "sugars_g": 8.3,
+    "protein_g": 19.2,
+    "fat_g": 16.0,
+    "sodium_mg": 860
+  },
+  "마늘쫑볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 55,
+    "carbohydrates_g": 6.5,
+    "sugars_g": 1.9,
+    "protein_g": 1.5,
+    "fat_g": 2.2,
+    "sodium_mg": 160
+  },
+  "고구마맛탕": {
+    "serving_size_g": 100,
+    "calories_kcal": 280,
+    "carbohydrates_g": 49.3,
+    "sugars_g": 22.4,
+    "protein_g": 2.8,
+    "fat_g": 8.5,
+    "sodium_mg": 180
+  },
+  "호박볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 6.2,
+    "sugars_g": 1.6,
+    "protein_g": 1.3,
+    "fat_g": 2.1,
+    "sodium_mg": 140
+  },
+  "함박&투움바소스": {
+    "serving_size_g": 200,
+    "calories_kcal": 560,
+    "carbohydrates_g": 22.4,
+    "sugars_g": 5.8,
+    "protein_g": 30.2,
+    "fat_g": 36.6,
+    "sodium_mg": 920
+  },
+  "청포묵무침": {
+    "serving_size_g": 120,
+    "calories_kcal": 90,
+    "carbohydrates_g": 17.6,
+    "sugars_g": 2.2,
+    "protein_g": 1.4,
+    "fat_g": 2.3,
+    "sodium_mg": 220
+  },
+  "세발나물겉절이": {
+    "serving_size_g": 60,
+    "calories_kcal": 30,
+    "carbohydrates_g": 5.1,
+    "sugars_g": 1.0,
+    "protein_g": 1.3,
+    "fat_g": 0.5,
+    "sodium_mg": 90
+  },
+  "제육볶음": {
+    "serving_size_g": 200,
+    "calories_kcal": 580,
+    "carbohydrates_g": 18.4,
+    "sugars_g": 6.2,
+    "protein_g": 37.0,
+    "fat_g": 38.5,
+    "sodium_mg": 1250
+  },
+  "된장찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 95,
+    "carbohydrates_g": 6.0,
+    "sugars_g": 1.4,
+    "protein_g": 8.2,
+    "fat_g": 3.1,
+    "sodium_mg": 770
+  },
+  "메추리알곤약조림": {
+    "serving_size_g": 100,
+    "calories_kcal": 170,
+    "carbohydrates_g": 7.8,
+    "sugars_g": 3.5,
+    "protein_g": 12.4,
+    "fat_g": 9.4,
+    "sodium_mg": 480
+  },
+  "콩나물무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 4.7,
+    "sugars_g": 0.8,
+    "protein_g": 3.4,
+    "fat_g": 1.3,
+    "sodium_mg": 120
+  },
+  "짬뽕": {
+    "serving_size_g": 500,
+    "calories_kcal": 650,
+    "carbohydrates_g": 88.5,
+    "sugars_g": 8.6,
+    "protein_g": 26.2,
+    "fat_g": 19.8,
+    "sodium_mg": 1550
+  },
+  "참치김치볶음&온두부": {
+    "serving_size_g": 300,
+    "calories_kcal": 580,
+    "carbohydrates_g": 22.5,
+    "sugars_g": 5.2,
+    "protein_g": 34.4,
+    "fat_g": 36.8,
+    "sodium_mg": 1020
+  },
+  "유채나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 42,
+    "carbohydrates_g": 4.8,
+    "sugars_g": 1.1,
+    "protein_g": 2.9,
+    "fat_g": 1.4,
+    "sodium_mg": 130
+  },
+  "감자양파국": {
+    "serving_size_g": 250,
+    "calories_kcal": 80,
+    "carbohydrates_g": 7.3,
+    "sugars_g": 1.9,
+    "protein_g": 3.5,
+    "fat_g": 3.0,
+    "sodium_mg": 720
+  },
+  "모둠컬리볶음": {
+    "serving_size_g": 150,
+    "calories_kcal": 180,
+    "carbohydrates_g": 15.6,
+    "sugars_g": 5.3,
+    "protein_g": 6.9,
+    "fat_g": 9.4,
+    "sodium_mg": 410
+  },
+  "치커리유자무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 6.1,
+    "sugars_g": 2.7,
+    "protein_g": 0.9,
+    "fat_g": 1.2,
+    "sodium_mg": 130
+  },
+  "베이컨계란볶음밥": {
+    "serving_size_g": 300,
+    "calories_kcal": 640,
+    "carbohydrates_g": 70.5,
+    "sugars_g": 4.5,
+    "protein_g": 23.6,
+    "fat_g": 27.4,
+    "sodium_mg": 920
+  },
+  "가라아게": {
+    "serving_size_g": 120,
+    "calories_kcal": 360,
+    "carbohydrates_g": 18.3,
+    "sugars_g": 2.7,
+    "protein_g": 24.2,
+    "fat_g": 22.1,
+    "sodium_mg": 590
+  },
+  "천사채무침": {
+    "serving_size_g": 80,
+    "calories_kcal": 38,
+    "carbohydrates_g": 6.8,
+    "sugars_g": 2.0,
+    "protein_g": 0.8,
+    "fat_g": 0.6,
+    "sodium_mg": 180
+  },
+  "딸기우유": {
+    "serving_size_g": 200,
+    "calories_kcal": 130,
+    "carbohydrates_g": 21,
+    "sugars_g": 20,
+    "protein_g": 5,
+    "fat_g": 3,
+    "sodium_mg": 90
+  },
+  "카레닭볶음탕": {
+    "serving_size_g": 350,
+    "calories_kcal": 560,
+    "carbohydrates_g": 28.2,
+    "sugars_g": 6.8,
+    "protein_g": 39.2,
+    "fat_g": 28.6,
+    "sodium_mg": 1250
+  },
+  "미역국": {
+    "serving_size_g": 250,
+    "calories_kcal": 85,
+    "carbohydrates_g": 3.8,
+    "sugars_g": 0.7,
+    "protein_g": 7.5,
+    "fat_g": 4.1,
+    "sodium_mg": 720
+  },
+  "잡채어묵튀김": {
+    "serving_size_g": 200,
+    "calories_kcal": 440,
+    "carbohydrates_g": 48.2,
+    "sugars_g": 6.1,
+    "protein_g": 15.6,
+    "fat_g": 18.3,
+    "sodium_mg": 720
+  },
+  "무말랭이무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 65,
+    "carbohydrates_g": 9.2,
+    "sugars_g": 3.8,
+    "protein_g": 2.1,
+    "fat_g": 2.1,
+    "sodium_mg": 260
+  },
+  "팽이된장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 80,
+    "carbohydrates_g": 5.1,
+    "sugars_g": 1.0,
+    "protein_g": 6.8,
+    "fat_g": 3.1,
+    "sodium_mg": 770
+  },
+  "야채&단호박튀김": {
+    "serving_size_g": 150,
+    "calories_kcal": 410,
+    "carbohydrates_g": 45.3,
+    "sugars_g": 6.9,
+    "protein_g": 6.4,
+    "fat_g": 21.5,
+    "sodium_mg": 370
+  },
+  "새우튀김우동": {
+    "serving_size_g": 450,
+    "calories_kcal": 540,
+    "carbohydrates_g": 75.8,
+    "sugars_g": 4.8,
+    "protein_g": 20.2,
+    "fat_g": 14.8,
+    "sodium_mg": 1620
+  },
+  "소시지야채볶음": {
+    "serving_size_g": 120,
+    "calories_kcal": 270,
+    "carbohydrates_g": 8.6,
+    "sugars_g": 4.1,
+    "protein_g": 10.8,
+    "fat_g": 21.2,
+    "sodium_mg": 550
+  },
+  "단무지무침": {
+    "serving_size_g": 40,
+    "calories_kcal": 12,
+    "carbohydrates_g": 2.4,
+    "sugars_g": 0.5,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sodium_mg": 260
+  },
+  "돼지고기김치찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 190,
+    "carbohydrates_g": 6.9,
+    "sugars_g": 2.2,
+    "protein_g": 14.2,
+    "fat_g": 10.1,
+    "sodium_mg": 880
+  },
+  "감자고로케": {
+    "serving_size_g": 100,
+    "calories_kcal": 285,
+    "carbohydrates_g": 32.4,
+    "sugars_g": 2.8,
+    "protein_g": 5.3,
+    "fat_g": 15.6,
+    "sodium_mg": 350
+  },
+  "닭칼국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 530,
+    "carbohydrates_g": 79.2,
+    "sugars_g": 4.2,
+    "protein_g": 23.8,
+    "fat_g": 11.6,
+    "sodium_mg": 1200
+  },
+  "김치전": {
+    "serving_size_g": 100,
+    "calories_kcal": 210,
+    "carbohydrates_g": 24.5,
+    "sugars_g": 3.1,
+    "protein_g": 5.8,
+    "fat_g": 9.4,
+    "sodium_mg": 450
+  },
+  "유부겨자냉채": {
+    "serving_size_g": 80,
+    "calories_kcal": 85,
+    "carbohydrates_g": 9.9,
+    "sugars_g": 3.3,
+    "protein_g": 4.2,
+    "fat_g": 2.9,
+    "sodium_mg": 270
+  },
+  "해물순두부찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 160,
+    "carbohydrates_g": 5.4,
+    "sugars_g": 1.3,
+    "protein_g": 14.1,
+    "fat_g": 9.0,
+    "sodium_mg": 940
+  },
+  "오이깍둑무침": {
+    "serving_size_g": 60,
+    "calories_kcal": 25,
+    "carbohydrates_g": 4.3,
+    "sugars_g": 1.9,
+    "protein_g": 0.9,
+    "fat_g": 0.5,
+    "sodium_mg": 250
+  },
+  "오코노미돈까스": {
+    "serving_size_g": 200,
+    "calories_kcal": 580,
+    "carbohydrates_g": 30.5,
+    "sugars_g": 5.6,
+    "protein_g": 30.8,
+    "fat_g": 36.2,
+    "sodium_mg": 950
+  },
+  "미니냉모밀": {
+    "serving_size_g": 300,
+    "calories_kcal": 380,
+    "carbohydrates_g": 67.2,
+    "sugars_g": 4.0,
+    "protein_g": 14.8,
+    "fat_g": 3.2,
+    "sodium_mg": 1020
+  },
+  "돈육떡조림": {
+    "serving_size_g": 150,
+    "calories_kcal": 320,
+    "carbohydrates_g": 17.5,
+    "sugars_g": 5.8,
+    "protein_g": 18.6,
+    "fat_g": 20.2,
+    "sodium_mg": 810
+  },
+  "배추된장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 75,
+    "carbohydrates_g": 5.1,
+    "sugars_g": 0.9,
+    "protein_g": 6.1,
+    "fat_g": 2.6,
+    "sodium_mg": 750
+  },
+  "양념맛감자볼": {
+    "serving_size_g": 100,
+    "calories_kcal": 290,
+    "carbohydrates_g": 37.0,
+    "sugars_g": 4.1,
+    "protein_g": 4.6,
+    "fat_g": 14.4,
+    "sodium_mg": 410
+  },
+  "시금치나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 35,
+    "carbohydrates_g": 3.9,
+    "sugars_g": 0.9,
+    "protein_g": 2.8,
+    "fat_g": 1.5,
+    "sodium_mg": 120
+  },
+  "오돈불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 550,
+    "carbohydrates_g": 17.1,
+    "sugars_g": 5.9,
+    "protein_g": 36.9,
+    "fat_g": 37.8,
+    "sodium_mg": 1240
+  },
+  "들깨무국": {
+    "serving_size_g": 250,
+    "calories_kcal": 90,
+    "carbohydrates_g": 6.2,
+    "sugars_g": 1.0,
+    "protein_g": 6.1,
+    "fat_g": 4.0,
+    "sodium_mg": 750
+  },
+  "김말이튀김": {
+    "serving_size_g": 100,
+    "calories_kcal": 260,
+    "carbohydrates_g": 27.4,
+    "sugars_g": 2.6,
+    "protein_g": 4.8,
+    "fat_g": 14.5,
+    "sodium_mg": 330
+  },
+  "상추쌈&쌈장": {
+    "serving_size_g": 60,
+    "calories_kcal": 45,
+    "carbohydrates_g": 4.2,
+    "sugars_g": 1.1,
+    "protein_g": 1.8,
+    "fat_g": 2.2,
+    "sodium_mg": 260
+  },
+  "탕수육": {
+    "serving_size_g": 200,
+    "calories_kcal": 530,
+    "carbohydrates_g": 53.5,
+    "sugars_g": 18.9,
+    "protein_g": 22.0,
+    "fat_g": 24.9,
+    "sodium_mg": 580
+  },
+  "오복지": {
+    "serving_size_g": 50,
+    "calories_kcal": 40,
+    "carbohydrates_g": 8.3,
+    "sugars_g": 4.8,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "sodium_mg": 470
+  },
+  "쥬시쿨": {
+    "serving_size_g": 200,
+    "calories_kcal": 130,
+    "carbohydrates_g": 32.8,
+    "sugars_g": 32.8,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sodium_mg": 20
+  },
+  "짜장떡볶이": {
+    "serving_size_g": 250,
+    "calories_kcal": 460,
+    "carbohydrates_g": 74.5,
+    "sugars_g": 8.1,
+    "protein_g": 9.8,
+    "fat_g": 11.6,
+    "sodium_mg": 880
+  },
+  "짬뽕국": {
+    "serving_size_g": 350,
+    "calories_kcal": 390,
+    "carbohydrates_g": 44.2,
+    "sugars_g": 5.2,
+    "protein_g": 24.6,
+    "fat_g": 12.3,
+    "sodium_mg": 1180
+  },
+  "교자만두": {
+    "serving_size_g": 100,
+    "calories_kcal": 230,
+    "carbohydrates_g": 25.5,
+    "sugars_g": 2.3,
+    "protein_g": 8.4,
+    "fat_g": 10.4,
+    "sodium_mg": 400
+  },
+  "잔치국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 520,
+    "carbohydrates_g": 83.1,
+    "sugars_g": 4.2,
+    "protein_g": 17.6,
+    "fat_g": 9.1,
+    "sodium_mg": 1160
+  },
+  "미니돈까스": {
+    "serving_size_g": 150,
+    "calories_kcal": 370,
+    "carbohydrates_g": 20.5,
+    "sugars_g": 3.6,
+    "protein_g": 18.2,
+    "fat_g": 23.5,
+    "sodium_mg": 540
+  },
+  "치커리유자생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 42,
+    "carbohydrates_g": 5.5,
+    "sugars_g": 2.3,
+    "protein_g": 1.0,
+    "fat_g": 1.3,
+    "sodium_mg": 110
+  },
+  "짬뽕순두부찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 160,
+    "carbohydrates_g": 6.2,
+    "sugars_g": 1.4,
+    "protein_g": 13.2,
+    "fat_g": 8.7,
+    "sodium_mg": 930
+  },
+  "근대된장무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 38,
+    "carbohydrates_g": 4.8,
+    "sugars_g": 0.9,
+    "protein_g": 2.4,
+    "fat_g": 1.2,
+    "sodium_mg": 130
+  },
+  "냉모밀": {
+    "serving_size_g": 400,
+    "calories_kcal": 420,
+    "carbohydrates_g": 70.4,
+    "sugars_g": 3.9,
+    "protein_g": 17.2,
+    "fat_g": 5.8,
+    "sodium_mg": 1020
+  },
+  "양배추쌈&쌈장": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 4.6,
+    "sugars_g": 1.1,
+    "protein_g": 1.4,
+    "fat_g": 1.8,
+    "sodium_mg": 200
+  },
+  "순살닭볶음탕": {
+    "serving_size_g": 350,
+    "calories_kcal": 560,
+    "carbohydrates_g": 22.1,
+    "sugars_g": 5.7,
+    "protein_g": 40.8,
+    "fat_g": 30.0,
+    "sodium_mg": 1300
+  },
+  "우거지해장국": {
+    "serving_size_g": 350,
+    "calories_kcal": 250,
+    "carbohydrates_g": 10.2,
+    "sugars_g": 2.2,
+    "protein_g": 23.4,
+    "fat_g": 12.8,
+    "sodium_mg": 1100
+  },
+  "닭개장": {
+    "serving_size_g": 350,
+    "calories_kcal": 270,
+    "carbohydrates_g": 10.4,
+    "sugars_g": 2.6,
+    "protein_g": 24.8,
+    "fat_g": 13.6,
+    "sodium_mg": 1080
+  },
+  "데리야끼고기산적": {
+    "serving_size_g": 150,
+    "calories_kcal": 320,
+    "carbohydrates_g": 14.8,
+    "sugars_g": 5.5,
+    "protein_g": 22.0,
+    "fat_g": 19.1,
+    "sodium_mg": 610
+  },
+  "오징어무말랭이무침": {
+    "serving_size_g": 80,
+    "calories_kcal": 65,
+    "carbohydrates_g": 8.5,
+    "sugars_g": 3.9,
+    "protein_g": 5.1,
+    "fat_g": 1.2,
+    "sodium_mg": 230
+  },
+  "브로콜리&초고추장": {
+    "serving_size_g": 70,
+    "calories_kcal": 50,
+    "carbohydrates_g": 5.8,
+    "sugars_g": 1.5,
+    "protein_g": 2.8,
+    "fat_g": 1.5,
+    "sodium_mg": 160
+  },
+  "포도주스": {
+    "serving_size_g": 200,
+    "calories_kcal": 90,
+    "carbohydrates_g": 22.3,
+    "sugars_g": 20.0,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sodium_mg": 5
+  },
+  "간장돈불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 540,
+    "carbohydrates_g": 16.8,
+    "sugars_g": 6.2,
+    "protein_g": 36.5,
+    "fat_g": 35.5,
+    "sodium_mg": 1250
+  },
+  "불어묵조림": {
+    "serving_size_g": 100,
+    "calories_kcal": 150,
+    "carbohydrates_g": 9.5,
+    "sugars_g": 4.1,
+    "protein_g": 9.8,
+    "fat_g": 8.2,
+    "sodium_mg": 410
+  },
+  "청상추쌈&쌈장": {
+    "serving_size_g": 70,
+    "calories_kcal": 42,
+    "carbohydrates_g": 4.3,
+    "sugars_g": 1.0,
+    "protein_g": 1.4,
+    "fat_g": 1.9,
+    "sodium_mg": 200
+  },
+  "떡볶이": {
+    "serving_size_g": 250,
+    "calories_kcal": 480,
+    "carbohydrates_g": 75.2,
+    "sugars_g": 9.4,
+    "protein_g": 9.8,
+    "fat_g": 13.5,
+    "sodium_mg": 860
+  },
+  "김치콩나물국밥": {
+    "serving_size_g": 500,
+    "calories_kcal": 550,
+    "carbohydrates_g": 85.3,
+    "sugars_g": 7.2,
+    "protein_g": 24.6,
+    "fat_g": 9.4,
+    "sodium_mg": 1550
+  },
+  "간장깻잎지": {
+    "serving_size_g": 40,
+    "calories_kcal": 50,
+    "carbohydrates_g": 4.2,
+    "sugars_g": 1.2,
+    "protein_g": 1.1,
+    "fat_g": 2.1,
+    "sodium_mg": 420
+  },
+  "눈꽃치즈닭갈비": {
+    "serving_size_g": 250,
+    "calories_kcal": 620,
+    "carbohydrates_g": 20.5,
+    "sugars_g": 7.4,
+    "protein_g": 44.8,
+    "fat_g": 36.8,
+    "sodium_mg": 1280
+  },
+  "햄감자채볶음": {
+    "serving_size_g": 100,
+    "calories_kcal": 180,
+    "carbohydrates_g": 12.4,
+    "sugars_g": 2.1,
+    "protein_g": 4.8,
+    "fat_g": 12.4,
+    "sodium_mg": 410
+  },
+  "청상추생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 30,
+    "carbohydrates_g": 4.5,
+    "sugars_g": 1.3,
+    "protein_g": 1.1,
+    "fat_g": 0.7,
+    "sodium_mg": 120
+  },
+  "함박스테이크": {
+    "serving_size_g": 200,
+    "calories_kcal": 520,
+    "carbohydrates_g": 18.5,
+    "sugars_g": 4.2,
+    "protein_g": 31.2,
+    "fat_g": 35.1,
+    "sodium_mg": 860
+  },
+  "부대찌개&라면사리": {
+    "serving_size_g": 450,
+    "calories_kcal": 680,
+    "carbohydrates_g": 58.8,
+    "sugars_g": 9.1,
+    "protein_g": 30.5,
+    "fat_g": 33.8,
+    "sodium_mg": 1820
+  },
+  "등심돈까스": {
+    "serving_size_g": 200,
+    "calories_kcal": 580,
+    "carbohydrates_g": 30.2,
+    "sugars_g": 3.9,
+    "protein_g": 26.4,
+    "fat_g": 36.8,
+    "sodium_mg": 710
+  },
+  "크림스프": {
+    "serving_size_g": 250,
+    "calories_kcal": 160,
+    "carbohydrates_g": 19.3,
+    "sugars_g": 5.2,
+    "protein_g": 4.5,
+    "fat_g": 7.2,
+    "sodium_mg": 460
+  },
+  "샐러드파스타": {
+    "serving_size_g": 250,
+    "calories_kcal": 480,
+    "carbohydrates_g": 60.1,
+    "sugars_g": 6.2,
+    "protein_g": 16.1,
+    "fat_g": 17.5,
+    "sodium_mg": 720
+  },
+  "청경채나물": {
+    "serving_size_g": 70,
+    "calories_kcal": 33,
+    "carbohydrates_g": 4.6,
+    "sugars_g": 1.0,
+    "protein_g": 1.9,
+    "fat_g": 1.1,
+    "sodium_mg": 100
+  },
+  "닭게장&칼국수사리": {
+    "serving_size_g": 450,
+    "calories_kcal": 640,
+    "carbohydrates_g": 45.2,
+    "sugars_g": 4.1,
+    "protein_g": 36.8,
+    "fat_g": 32.1,
+    "sodium_mg": 1560
+  },
+  "모둠튀김": {
+    "serving_size_g": 180,
+    "calories_kcal": 460,
+    "carbohydrates_g": 42.6,
+    "sugars_g": 4.5,
+    "protein_g": 8.4,
+    "fat_g": 26.1,
+    "sodium_mg": 410
+  },
+  "얼갈이된장무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 38,
+    "carbohydrates_g": 5.0,
+    "sugars_g": 0.8,
+    "protein_g": 2.3,
+    "fat_g": 1.4,
+    "sodium_mg": 130
+  },
+  "돼지간장불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 540,
+    "carbohydrates_g": 16.5,
+    "sugars_g": 5.8,
+    "protein_g": 36.4,
+    "fat_g": 35.6,
+    "sodium_mg": 1230
+  },
+  "매콤콩나물국": {
+    "serving_size_g": 250,
+    "calories_kcal": 80,
+    "carbohydrates_g": 5.2,
+    "sugars_g": 1.4,
+    "protein_g": 6.1,
+    "fat_g": 3.2,
+    "sodium_mg": 820
+  },
+  "김치돈육찜": {
+    "serving_size_g": 250,
+    "calories_kcal": 520,
+    "carbohydrates_g": 14.8,
+    "sugars_g": 4.8,
+    "protein_g": 38.5,
+    "fat_g": 33.6,
+    "sodium_mg": 1180
+  },
+  "어묵볶음": {
+    "serving_size_g": 100,
+    "calories_kcal": 160,
+    "carbohydrates_g": 9.2,
+    "sugars_g": 4.2,
+    "protein_g": 8.4,
+    "fat_g": 10.1,
+    "sodium_mg": 410
+  },
+  "부추겉절이": {
+    "serving_size_g": 70,
+    "calories_kcal": 42,
+    "carbohydrates_g": 5.3,
+    "sugars_g": 1.1,
+    "protein_g": 1.9,
+    "fat_g": 1.5,
+    "sodium_mg": 120
+  },
+  "모듬묵": {
+    "serving_size_g": 150,
+    "calories_kcal": 110,
+    "carbohydrates_g": 20.8,
+    "sugars_g": 3.2,
+    "protein_g": 2.1,
+    "fat_g": 1.5,
+    "sodium_mg": 190
+  },
+  "유부우동": {
+    "serving_size_g": 400,
+    "calories_kcal": 510,
+    "carbohydrates_g": 73.5,
+    "sugars_g": 4.3,
+    "protein_g": 17.5,
+    "fat_g": 13.8,
+    "sodium_mg": 1560
+  },
+  "미트볼야채볶음": {
+    "serving_size_g": 150,
+    "calories_kcal": 280,
+    "carbohydrates_g": 18.6,
+    "sugars_g": 6.5,
+    "protein_g": 14.4,
+    "fat_g": 17.3,
+    "sodium_mg": 680
+  },
+  "매콤새송이볶음": {
+    "serving_size_g": 80,
+    "calories_kcal": 70,
+    "carbohydrates_g": 8.2,
+    "sugars_g": 3.1,
+    "protein_g": 2.8,
+    "fat_g": 2.6,
+    "sodium_mg": 190
+  },
+  "바베큐맛닭갈비": {
+    "serving_size_g": 200,
+    "calories_kcal": 490,
+    "carbohydrates_g": 17.9,
+    "sugars_g": 6.4,
+    "protein_g": 37.8,
+    "fat_g": 26.2,
+    "sodium_mg": 720
+  },
+  "시금치된장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 85,
+    "carbohydrates_g": 5.0,
+    "sugars_g": 1.2,
+    "protein_g": 7.3,
+    "fat_g": 3.1,
+    "sodium_mg": 780
+  },
+  "양념깻잎지": {
+    "serving_size_g": 40,
+    "calories_kcal": 45,
+    "carbohydrates_g": 4.1,
+    "sugars_g": 1.1,
+    "protein_g": 1.0,
+    "fat_g": 2.0,
+    "sodium_mg": 410
+  },
+  "나가사끼짬뽕": {
+    "serving_size_g": 500,
+    "calories_kcal": 670,
+    "carbohydrates_g": 90.1,
+    "sugars_g": 9.0,
+    "protein_g": 27.1,
+    "fat_g": 20.3,
+    "sodium_mg": 1580
+  },
+  "군만두": {
+    "serving_size_g": 120,
+    "calories_kcal": 280,
+    "carbohydrates_g": 31.4,
+    "sugars_g": 2.9,
+    "protein_g": 9.2,
+    "fat_g": 12.1,
+    "sodium_mg": 410
+  },
+  "야채춘권": {
+    "serving_size_g": 90,
+    "calories_kcal": 220,
+    "carbohydrates_g": 26.8,
+    "sugars_g": 3.4,
+    "protein_g": 4.8,
+    "fat_g": 10.5,
+    "sodium_mg": 260
+  },
+  "치커기유자생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 5.8,
+    "sugars_g": 2.3,
+    "protein_g": 1.0,
+    "fat_g": 1.2,
+    "sodium_mg": 110
+  },
+  "두부조림": {
+    "serving_size_g": 100,
+    "calories_kcal": 150,
+    "carbohydrates_g": 6.3,
+    "sugars_g": 2.2,
+    "protein_g": 13.1,
+    "fat_g": 8.4,
+    "sodium_mg": 420
+  },
+  "무생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 7.1,
+    "sugars_g": 2.0,
+    "protein_g": 1.1,
+    "fat_g": 0.9,
+    "sodium_mg": 160
+  },
+  "순살찜닭": {
+    "serving_size_g": 350,
+    "calories_kcal": 540,
+    "carbohydrates_g": 19.2,
+    "sugars_g": 6.2,
+    "protein_g": 39.6,
+    "fat_g": 31.1,
+    "sodium_mg": 1220
+  },
+  "돈육김치짜글이": {
+    "serving_size_g": 250,
+    "calories_kcal": 230,
+    "carbohydrates_g": 7.3,
+    "sugars_g": 2.3,
+    "protein_g": 16.8,
+    "fat_g": 14.5,
+    "sodium_mg": 880
+  },
+  "도시락김": {
+    "serving_size_g": 10,
+    "calories_kcal": 60,
+    "carbohydrates_g": 0.4,
+    "sugars_g": 0,
+    "protein_g": 1.4,
+    "fat_g": 5.8,
+    "sodium_mg": 25
+  },
+  "치킨까스": {
+    "serving_size_g": 200,
+    "calories_kcal": 560,
+    "carbohydrates_g": 28.1,
+    "sugars_g": 3.6,
+    "protein_g": 31.8,
+    "fat_g": 35.1,
+    "sodium_mg": 730
+  },
+  "계란볶음밥": {
+    "serving_size_g": 300,
+    "calories_kcal": 640,
+    "carbohydrates_g": 73.5,
+    "sugars_g": 4.2,
+    "protein_g": 21.4,
+    "fat_g": 26.8,
+    "sodium_mg": 900
+  },
+  "오징어볶음": {
+    "serving_size_g": 150,
+    "calories_kcal": 190,
+    "carbohydrates_g": 9.4,
+    "sugars_g": 3.1,
+    "protein_g": 21.3,
+    "fat_g": 6.2,
+    "sodium_mg": 640
+  },
+  "감자수제비": {
+    "serving_size_g": 400,
+    "calories_kcal": 420,
+    "carbohydrates_g": 82.1,
+    "sugars_g": 4.9,
+    "protein_g": 12.4,
+    "fat_g": 8.3,
+    "sodium_mg": 1410
+  },
+  "청포묵김가루무침": {
+    "serving_size_g": 120,
+    "calories_kcal": 90,
+    "carbohydrates_g": 17.6,
+    "sugars_g": 2.2,
+    "protein_g": 1.4,
+    "fat_g": 2.3,
+    "sodium_mg": 220
+  },
+  "칼국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 530,
+    "carbohydrates_g": 85.4,
+    "sugars_g": 4.1,
+    "protein_g": 18.4,
+    "fat_g": 9.8,
+    "sodium_mg": 1120
+  },
+  "김치만두": {
+    "serving_size_g": 120,
+    "calories_kcal": 240,
+    "carbohydrates_g": 29.1,
+    "sugars_g": 3.4,
+    "protein_g": 9.5,
+    "fat_g": 9.1,
+    "sodium_mg": 420
+  },
+  "고기산적조림": {
+    "serving_size_g": 120,
+    "calories_kcal": 310,
+    "carbohydrates_g": 12.8,
+    "sugars_g": 4.1,
+    "protein_g": 21.0,
+    "fat_g": 19.8,
+    "sodium_mg": 560
+  },
+  "고사리볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 45,
+    "carbohydrates_g": 5.6,
+    "sugars_g": 0.7,
+    "protein_g": 2.3,
+    "fat_g": 1.8,
+    "sodium_mg": 130
+  },
+  "부추무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 42,
+    "carbohydrates_g": 5.8,
+    "sugars_g": 1.9,
+    "protein_g": 1.6,
+    "fat_g": 1.8,
+    "sodium_mg": 140
+  },
+  "치킨너겟": {
+    "serving_size_g": 100,
+    "calories_kcal": 290,
+    "carbohydrates_g": 16.8,
+    "sugars_g": 1.8,
+    "protein_g": 16.4,
+    "fat_g": 18.6,
+    "sodium_mg": 580
+  },
+  "미니새송이짬뽕볶음": {
+    "serving_size_g": 120,
+    "calories_kcal": 140,
+    "carbohydrates_g": 12.6,
+    "sugars_g": 4.3,
+    "protein_g": 5.1,
+    "fat_g": 7.2,
+    "sodium_mg": 310
+  },
+  "마늘종볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 55,
+    "carbohydrates_g": 6.5,
+    "sugars_g": 1.9,
+    "protein_g": 1.5,
+    "fat_g": 2.2,
+    "sodium_mg": 160
+  },
+  "돈까스": {
+    "serving_size_g": 200,
+    "calories_kcal": 560,
+    "carbohydrates_g": 28.1,
+    "sugars_g": 3.6,
+    "protein_g": 31.8,
+    "fat_g": 35.1,
+    "sodium_mg": 730
+  },
+  "실곤약야채무침": {
+    "serving_size_g": 100,
+    "calories_kcal": 45,
+    "carbohydrates_g": 8.2,
+    "sugars_g": 2.3,
+    "protein_g": 1.4,
+    "fat_g": 0.8,
+    "sodium_mg": 210
+  },
+  "아욱된장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 85,
+    "carbohydrates_g": 5.2,
+    "sugars_g": 1.2,
+    "protein_g": 7.3,
+    "fat_g": 3.1,
+    "sodium_mg": 770
+  },
+  "단호박&김말이튀김": {
+    "serving_size_g": 150,
+    "calories_kcal": 420,
+    "carbohydrates_g": 46.1,
+    "sugars_g": 6.2,
+    "protein_g": 7.1,
+    "fat_g": 22.4,
+    "sodium_mg": 390
+  },
+  "김치우동": {
+    "serving_size_g": 400,
+    "calories_kcal": 520,
+    "carbohydrates_g": 75.3,
+    "sugars_g": 4.6,
+    "protein_g": 18.4,
+    "fat_g": 13.8,
+    "sodium_mg": 1580
+  },
+  "고사리들깨볶음": {
+    "serving_size_g": 70,
+    "calories_kcal": 60,
+    "carbohydrates_g": 6.5,
+    "sugars_g": 1.1,
+    "protein_g": 2.6,
+    "fat_g": 2.9,
+    "sodium_mg": 160
+  },
+  "짜장덮밥": {
+    "serving_size_g": 350,
+    "calories_kcal": 650,
+    "carbohydrates_g": 93.5,
+    "sugars_g": 8.3,
+    "protein_g": 17.8,
+    "fat_g": 18.9,
+    "sodium_mg": 1060
+  },
+  "뼈없는감자탕": {
+    "serving_size_g": 400,
+    "calories_kcal": 610,
+    "carbohydrates_g": 21.4,
+    "sugars_g": 5.7,
+    "protein_g": 41.3,
+    "fat_g": 38.6,
+    "sodium_mg": 1780
+  },
+  "우동장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 75,
+    "carbohydrates_g": 4.8,
+    "sugars_g": 1.3,
+    "protein_g": 5.1,
+    "fat_g": 2.8,
+    "sodium_mg": 820
+  },
+  "오이무침": {
+    "serving_size_g": 60,
+    "calories_kcal": 25,
+    "carbohydrates_g": 4.2,
+    "sugars_g": 1.5,
+    "protein_g": 1.0,
+    "fat_g": 0.4,
+    "sodium_mg": 240
+  },
+  "파채돈불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 550,
+    "carbohydrates_g": 17.2,
+    "sugars_g": 6.1,
+    "protein_g": 36.8,
+    "fat_g": 37.4,
+    "sodium_mg": 1220
+  },
+  "사골떡만두국": {
+    "serving_size_g": 400,
+    "calories_kcal": 560,
+    "carbohydrates_g": 79.3,
+    "sugars_g": 4.5,
+    "protein_g": 20.4,
+    "fat_g": 13.5,
+    "sodium_mg": 1350
+  },
+  "데리야끼미트볼": {
+    "serving_size_g": 150,
+    "calories_kcal": 290,
+    "carbohydrates_g": 18.1,
+    "sugars_g": 6.2,
+    "protein_g": 15.2,
+    "fat_g": 17.0,
+    "sodium_mg": 670
+  },
+  "김치볶음밥": {
+    "serving_size_g": 300,
+    "calories_kcal": 620,
+    "carbohydrates_g": 80.2,
+    "sugars_g": 6.1,
+    "protein_g": 16.2,
+    "fat_g": 23.5,
+    "sodium_mg": 880
+  },
+  "간장양파장아찌": {
+    "serving_size_g": 40,
+    "calories_kcal": 25,
+    "carbohydrates_g": 4.2,
+    "sugars_g": 1.2,
+    "protein_g": 0.5,
+    "fat_g": 0.1,
+    "sodium_mg": 370
+  },
+  "콩나물김가루무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 42,
+    "carbohydrates_g": 5.0,
+    "sugars_g": 1.1,
+    "protein_g": 3.1,
+    "fat_g": 1.5,
+    "sodium_mg": 120
+  },
+  "참치김치찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 210,
+    "carbohydrates_g": 7.4,
+    "sugars_g": 2.1,
+    "protein_g": 17.0,
+    "fat_g": 12.0,
+    "sodium_mg": 900
+  },
+  "미니새송이볶음": {
+    "serving_size_g": 100,
+    "calories_kcal": 70,
+    "carbohydrates_g": 7.6,
+    "sugars_g": 2.3,
+    "protein_g": 2.9,
+    "fat_g": 2.7,
+    "sodium_mg": 180
+  },
+  "장칼국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 540,
+    "carbohydrates_g": 83.2,
+    "sugars_g": 5.1,
+    "protein_g": 18.2,
+    "fat_g": 9.5,
+    "sodium_mg": 1180
+  },
+  "한입떡갈비": {
+    "serving_size_g": 150,
+    "calories_kcal": 320,
+    "carbohydrates_g": 14.5,
+    "sugars_g": 5.2,
+    "protein_g": 22.4,
+    "fat_g": 19.3,
+    "sodium_mg": 580
+  },
+  "순살간장찜닭": {
+    "serving_size_g": 350,
+    "calories_kcal": 540,
+    "carbohydrates_g": 19.2,
+    "sugars_g": 6.2,
+    "protein_g": 39.6,
+    "fat_g": 31.1,
+    "sodium_mg": 1220
+  },
+  "부대찌개": {
+    "serving_size_g": 400,
+    "calories_kcal": 650,
+    "carbohydrates_g": 38.4,
+    "sugars_g": 7.5,
+    "protein_g": 29.0,
+    "fat_g": 38.8,
+    "sodium_mg": 1780
+  },
+  "감자조림": {
+    "serving_size_g": 100,
+    "calories_kcal": 150,
+    "carbohydrates_g": 23.4,
+    "sugars_g": 5.8,
+    "protein_g": 2.8,
+    "fat_g": 5.4,
+    "sodium_mg": 280
+  },
+  "닭가슴살쌀국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 490,
+    "carbohydrates_g": 77.0,
+    "sugars_g": 4.1,
+    "protein_g": 24.1,
+    "fat_g": 8.5,
+    "sodium_mg": 1200
+  },
+  "돈육김치찜": {
+    "serving_size_g": 250,
+    "calories_kcal": 340,
+    "carbohydrates_g": 7.1,
+    "sugars_g": 2.5,
+    "protein_g": 28.2,
+    "fat_g": 21.8,
+    "sodium_mg": 910
+  },
+  "돼지간장볶음": {
+    "serving_size_g": 200,
+    "calories_kcal": 540,
+    "carbohydrates_g": 16.5,
+    "sugars_g": 5.8,
+    "protein_g": 36.4,
+    "fat_g": 35.6,
+    "sodium_mg": 1230
+  },
+  "온메밀국수": {
+    "serving_size_g": 400,
+    "calories_kcal": 420,
+    "carbohydrates_g": 70.4,
+    "sugars_g": 3.9,
+    "protein_g": 17.2,
+    "fat_g": 5.8,
+    "sodium_mg": 1020
+  },
+  "청모묵": {
+    "serving_size_g": 150,
+    "calories_kcal": 110,
+    "carbohydrates_g": 20.8,
+    "sugars_g": 3.2,
+    "protein_g": 2.1,
+    "fat_g": 1.5,
+    "sodium_mg": 190
+  },
+  "로제찜닭": {
+    "serving_size_g": 350,
+    "calories_kcal": 560,
+    "carbohydrates_g": 22.8,
+    "sugars_g": 6.0,
+    "protein_g": 38.5,
+    "fat_g": 32.1,
+    "sodium_mg": 1270
+  },
+  "쌈무": {
+    "serving_size_g": 40,
+    "calories_kcal": 20,
+    "carbohydrates_g": 3.4,
+    "sugars_g": 1.4,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sodium_mg": 260
+  },
+  "순대국밥": {
+    "serving_size_g": 600,
+    "calories_kcal": 710,
+    "carbohydrates_g": 46.8,
+    "sugars_g": 5.2,
+    "protein_g": 35.4,
+    "fat_g": 39.8,
+    "sodium_mg": 1600
+  },
+  "야채고로케": {
+    "serving_size_g": 100,
+    "calories_kcal": 280,
+    "carbohydrates_g": 30.4,
+    "sugars_g": 2.8,
+    "protein_g": 5.1,
+    "fat_g": 15.8,
+    "sodium_mg": 340
+  },
+  "맛살겨자무침": {
+    "serving_size_g": 80,
+    "calories_kcal": 130,
+    "carbohydrates_g": 10.3,
+    "sugars_g": 5.4,
+    "protein_g": 6.9,
+    "fat_g": 6.2,
+    "sodium_mg": 410
+  },
+  "떡만두국": {
+    "serving_size_g": 400,
+    "calories_kcal": 560,
+    "carbohydrates_g": 79.3,
+    "sugars_g": 4.5,
+    "protein_g": 20.4,
+    "fat_g": 13.5,
+    "sodium_mg": 1350
+  },
+  "파채불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 530,
+    "carbohydrates_g": 17.1,
+    "sugars_g": 6.0,
+    "protein_g": 36.7,
+    "fat_g": 36.5,
+    "sodium_mg": 1220
+  },
+  "시금치국": {
+    "serving_size_g": 250,
+    "calories_kcal": 85,
+    "carbohydrates_g": 5.0,
+    "sugars_g": 1.2,
+    "protein_g": 7.3,
+    "fat_g": 3.1,
+    "sodium_mg": 780
+  },
+  "육개장": {
+    "serving_size_g": 350,
+    "calories_kcal": 270,
+    "carbohydrates_g": 10.4,
+    "sugars_g": 2.6,
+    "protein_g": 24.8,
+    "fat_g": 13.6,
+    "sodium_mg": 1080
+  },
+  "닭곰탕&소면사리": {
+    "serving_size_g": 450,
+    "calories_kcal": 590,
+    "carbohydrates_g": 40.2,
+    "sugars_g": 3.8,
+    "protein_g": 34.5,
+    "fat_g": 26.1,
+    "sodium_mg": 1500
+  },
+  "동그랑땡": {
+    "serving_size_g": 100,
+    "calories_kcal": 210,
+    "carbohydrates_g": 9.8,
+    "sugars_g": 2.8,
+    "protein_g": 10.5,
+    "fat_g": 14.1,
+    "sodium_mg": 410
+  },
+  "부추양파생채": {
+    "serving_size_g": 70,
+    "calories_kcal": 35,
+    "carbohydrates_g": 4.2,
+    "sugars_g": 1.3,
+    "protein_g": 1.2,
+    "fat_g": 0.8,
+    "sodium_mg": 120
+  },
+  "유부장국": {
+    "serving_size_g": 250,
+    "calories_kcal": 80,
+    "carbohydrates_g": 4.8,
+    "sugars_g": 1.1,
+    "protein_g": 6.1,
+    "fat_g": 3.2,
+    "sodium_mg": 760
+  },
+  "백목이오리엔탈무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 40,
+    "carbohydrates_g": 5.1,
+    "sugars_g": 1.4,
+    "protein_g": 1.2,
+    "fat_g": 1.0,
+    "sodium_mg": 130
+  },
+  "감자채볶음": {
+    "serving_size_g": 100,
+    "calories_kcal": 150,
+    "carbohydrates_g": 18.2,
+    "sugars_g": 3.4,
+    "protein_g": 2.2,
+    "fat_g": 7.2,
+    "sodium_mg": 230
+  },
+  "계란볶음밥&짜장소스": {
+    "serving_size_g": 350,
+    "calories_kcal": 680,
+    "carbohydrates_g": 94.8,
+    "sugars_g": 9.1,
+    "protein_g": 17.4,
+    "fat_g": 22.6,
+    "sodium_mg": 1150
+  },
+  "돈육김치찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 190,
+    "carbohydrates_g": 6.9,
+    "sugars_g": 2.2,
+    "protein_g": 14.2,
+    "fat_g": 10.1,
+    "sodium_mg": 880
+  },
+  "떡갈비조림": {
+    "serving_size_g": 150,
+    "calories_kcal": 310,
+    "carbohydrates_g": 14.2,
+    "sugars_g": 4.8,
+    "protein_g": 21.0,
+    "fat_g": 18.8,
+    "sodium_mg": 580
+  },
+  "마카로니범벅": {
+    "serving_size_g": 200,
+    "calories_kcal": 520,
+    "carbohydrates_g": 64.8,
+    "sugars_g": 6.5,
+    "protein_g": 16.5,
+    "fat_g": 19.0,
+    "sodium_mg": 790
+  },
+  "부추양파무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 36,
+    "carbohydrates_g": 4.3,
+    "sugars_g": 1.2,
+    "protein_g": 1.1,
+    "fat_g": 0.9,
+    "sodium_mg": 120
+  },
+  "순대": {
+    "serving_size_g": 150,
+    "calories_kcal": 280,
+    "carbohydrates_g": 24.8,
+    "sugars_g": 3.2,
+    "protein_g": 13.5,
+    "fat_g": 14.1,
+    "sodium_mg": 620
+  },
+  "김치제육&온두부": {
+    "serving_size_g": 300,
+    "calories_kcal": 580,
+    "carbohydrates_g": 22.5,
+    "sugars_g": 5.2,
+    "protein_g": 34.4,
+    "fat_g": 36.8,
+    "sodium_mg": 1020
+  },
+  "콩나물국": {
+    "serving_size_g": 250,
+    "calories_kcal": 45,
+    "carbohydrates_g": 4.5,
+    "sugars_g": 1.1,
+    "protein_g": 3.6,
+    "fat_g": 1.2,
+    "sodium_mg": 620
+  },
+  "매콤감자조림": {
+    "serving_size_g": 100,
+    "calories_kcal": 155,
+    "carbohydrates_g": 23.5,
+    "sugars_g": 5.8,
+    "protein_g": 2.8,
+    "fat_g": 5.6,
+    "sodium_mg": 290
+  },
+  "백목이초무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 32,
+    "carbohydrates_g": 4.1,
+    "sugars_g": 1.2,
+    "protein_g": 1.1,
+    "fat_g": 0.6,
+    "sodium_mg": 110
+  },
+  "오징어짬뽕": {
+    "serving_size_g": 500,
+    "calories_kcal": 650,
+    "carbohydrates_g": 88.5,
+    "sugars_g": 8.6,
+    "protein_g": 26.2,
+    "fat_g": 19.8,
+    "sodium_mg": 1550
+  },
+  "수제비국": {
+    "serving_size_g": 400,
+    "calories_kcal": 420,
+    "carbohydrates_g": 82.1,
+    "sugars_g": 4.9,
+    "protein_g": 12.4,
+    "fat_g": 8.3,
+    "sodium_mg": 1410
+  },
+  "순대야채볶음": {
+    "serving_size_g": 200,
+    "calories_kcal": 420,
+    "carbohydrates_g": 32.8,
+    "sugars_g": 6.8,
+    "protein_g": 17.1,
+    "fat_g": 23.2,
+    "sodium_mg": 760
+  },
+  "소세지떡볶음": {
+    "serving_size_g": 250,
+    "calories_kcal": 530,
+    "carbohydrates_g": 72.8,
+    "sugars_g": 9.5,
+    "protein_g": 16.8,
+    "fat_g": 17.5,
+    "sodium_mg": 910
+  },
+  "로제파스타": {
+    "serving_size_g": 300,
+    "calories_kcal": 610,
+    "carbohydrates_g": 76.8,
+    "sugars_g": 7.8,
+    "protein_g": 19.5,
+    "fat_g": 22.1,
+    "sodium_mg": 810
+  },
+  "돈간장불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 540,
+    "carbohydrates_g": 16.8,
+    "sugars_g": 6.2,
+    "protein_g": 36.5,
+    "fat_g": 35.5,
+    "sodium_mg": 1250
+  },
+  "순두부찌개": {
+    "serving_size_g": 250,
+    "calories_kcal": 170,
+    "carbohydrates_g": 6.2,
+    "sugars_g": 1.4,
+    "protein_g": 13.5,
+    "fat_g": 10.1,
+    "sodium_mg": 940
+  },
+  "새송이볶음": {
+    "serving_size_g": 80,
+    "calories_kcal": 60,
+    "carbohydrates_g": 6.8,
+    "sugars_g": 1.7,
+    "protein_g": 2.8,
+    "fat_g": 2.5,
+    "sodium_mg": 140
+  },
+  "오징어젓무말랭이무침": {
+    "serving_size_g": 70,
+    "calories_kcal": 60,
+    "carbohydrates_g": 7.8,
+    "sugars_g": 3.2,
+    "protein_g": 5.1,
+    "fat_g": 1.1,
+    "sodium_mg": 280
+  },
+  "사각어묵볶음": {
+    "serving_size_g": 100,
+    "calories_kcal": 160,
+    "carbohydrates_g": 9.2,
+    "sugars_g": 4.2,
+    "protein_g": 8.4,
+    "fat_g": 10.1,
+    "sodium_mg": 410
+  },
+  "김치돈육조림": {
+    "serving_size_g": 250,
+    "calories_kcal": 340,
+    "carbohydrates_g": 7.1,
+    "sugars_g": 2.5,
+    "protein_g": 28.2,
+    "fat_g": 21.8,
+    "sodium_mg": 910
+  },
+  "얼큰콩나물국": {
+    "serving_size_g": 250,
+    "calories_kcal": 80,
+    "carbohydrates_g": 5.2,
+    "sugars_g": 1.4,
+    "protein_g": 6.1,
+    "fat_g": 3.2,
+    "sodium_mg": 820
+  },
+  "오징어무말랭이젓": {
+    "serving_size_g": 50,
+    "calories_kcal": 55,
+    "carbohydrates_g": 7.5,
+    "sugars_g": 3.2,
+    "protein_g": 6.8,
+    "fat_g": 1.2,
+    "sodium_mg": 310
+  },
+  "고추장불고기": {
+    "serving_size_g": 200,
+    "calories_kcal": 580,
+    "carbohydrates_g": 18.4,
+    "sugars_g": 6.2,
+    "protein_g": 37.0,
+    "fat_g": 38.5,
+    "sodium_mg": 1250
+  },
+  "크림스파게티": {
+    "serving_size_g": 300,
+    "calories_kcal": 610,
+    "carbohydrates_g": 76.8,
+    "sugars_g": 7.8,
+    "protein_g": 19.5,
+    "fat_g": 22.1,
+    "sodium_mg": 810
+  },
+  "미트볼데리야끼볶음": {
+    "serving_size_g": 150,
+    "calories_kcal": 290,
+    "carbohydrates_g": 18.1,
+    "sugars_g": 6.2,
+    "protein_g": 15.2,
+    "fat_g": 17.0,
+    "sodium_mg": 670
+  },
+  "오이지무침": {
+    "serving_size_g": 50,
+    "calories_kcal": 20,
+    "carbohydrates_g": 3.4,
+    "sugars_g": 1.5,
+    "protein_g": 0.6,
+    "fat_g": 0.1,
+    "sodium_mg": 320
+  }
+}
